@@ -1,0 +1,6 @@
+{
+  "name": "Size",
+  "dataType": "string",
+  "sourceColumn": "Size",
+  "sourceProviderType": "WChar"
+}

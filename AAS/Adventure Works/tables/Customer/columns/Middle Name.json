@@ -1,0 +1,6 @@
+{
+  "name": "Middle Name",
+  "dataType": "string",
+  "sourceColumn": "MiddleName",
+  "sourceProviderType": "WChar"
+}

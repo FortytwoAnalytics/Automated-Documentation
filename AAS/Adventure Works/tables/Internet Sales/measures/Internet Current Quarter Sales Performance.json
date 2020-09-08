@@ -1,0 +1,48 @@
+{
+  "name": "Internet Current Quarter Sales Performance",
+  "expression": [
+    "IFERROR (",
+    "    [Internet Current Quarter Sales] / [Internet Previous Quarter Sales Proportion to QTD],",
+    "    BLANK ()",
+    ")"
+  ],
+  "kpi": {
+    "targetExpression": "1.1",
+    "statusGraphic": "Shapes",
+    "statusExpression": [
+      "VAR x = 'Internet Sales'[Internet Current Quarter Sales Performance]",
+      "RETURN",
+      "    IF ( ISBLANK ( x ), BLANK (), IF ( x < 1, -1, IF ( x < 1.07, 0, 1 ) ) )"
+    ],
+    "annotations": [
+      {
+        "name": "GoalType",
+        "value": "StaticValue"
+      },
+      {
+        "name": "KpiStatusType",
+        "value": "Linear"
+      },
+      {
+        "name": "KpiThresholdType",
+        "value": "Absolute"
+      },
+      {
+        "name": "KpiThresholdOrdering",
+        "value": "Ascending"
+      },
+      {
+        "name": "KpiThresholdCount",
+        "value": "2"
+      },
+      {
+        "name": "KpiThreshold_0",
+        "value": "1"
+      },
+      {
+        "name": "KpiThreshold_1",
+        "value": "1.07"
+      }
+    ]
+  }
+}

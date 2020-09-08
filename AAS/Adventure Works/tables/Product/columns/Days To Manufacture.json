@@ -1,0 +1,6 @@
+{
+  "name": "Days To Manufacture",
+  "dataType": "int64",
+  "sourceColumn": "DaysToManufacture",
+  "sourceProviderType": "Integer"
+}

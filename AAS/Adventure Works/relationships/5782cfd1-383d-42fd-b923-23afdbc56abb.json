@@ -1,0 +1,7 @@
+{
+  "name": "5782cfd1-383d-42fd-b923-23afdbc56abb",
+  "fromTable": "Customer",
+  "fromColumn": "Geography Id",
+  "toTable": "Geography",
+  "toColumn": "Geography Id"
+}

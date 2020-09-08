@@ -1,0 +1,6 @@
+{
+  "name": "Reorder Point",
+  "dataType": "int64",
+  "sourceColumn": "ReorderPoint",
+  "sourceProviderType": "SmallInt"
+}

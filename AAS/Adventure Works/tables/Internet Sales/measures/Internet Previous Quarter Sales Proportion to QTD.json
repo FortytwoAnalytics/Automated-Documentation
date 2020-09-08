@@ -1,0 +1,4 @@
+{
+  "name": "Internet Previous Quarter Sales Proportion to QTD",
+  "expression": "[Internet Previous Quarter Sales] * ( [Days Current Quarter to Date] / [Days In Current Quarter] )"
+}

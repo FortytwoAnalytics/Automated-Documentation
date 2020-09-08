@@ -1,0 +1,8 @@
+{
+  "name": "Date",
+  "dataType": "dateTime",
+  "isKey": true,
+  "sourceColumn": "FullDateAlternateKey",
+  "formatString": "General Date",
+  "sourceProviderType": "DBDate"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Product Subcategory Id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "ProductSubcategoryKey",
+  "sourceProviderType": "Integer"
+}

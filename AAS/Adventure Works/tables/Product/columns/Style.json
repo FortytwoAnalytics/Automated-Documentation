@@ -1,0 +1,6 @@
+{
+  "name": "Style",
+  "dataType": "string",
+  "sourceColumn": "Style",
+  "sourceProviderType": "WChar"
+}

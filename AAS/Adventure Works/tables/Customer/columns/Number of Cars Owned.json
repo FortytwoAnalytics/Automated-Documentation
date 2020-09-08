@@ -1,0 +1,6 @@
+{
+  "name": "Number of Cars Owned",
+  "dataType": "int64",
+  "sourceColumn": "NumberCarsOwned",
+  "sourceProviderType": "UnsignedTinyInt"
+}

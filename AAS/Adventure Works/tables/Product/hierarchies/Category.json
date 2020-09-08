@@ -1,0 +1,25 @@
+{
+  "name": "Category",
+  "levels": [
+    {
+      "name": "Category",
+      "ordinal": 0,
+      "column": "Product Category Name"
+    },
+    {
+      "name": "Subcategory",
+      "ordinal": 1,
+      "column": "Product Subcategory Name"
+    },
+    {
+      "name": "Product ",
+      "ordinal": 3,
+      "column": "Product Name"
+    },
+    {
+      "name": "Model",
+      "ordinal": 2,
+      "column": "Model Name"
+    }
+  ]
+}

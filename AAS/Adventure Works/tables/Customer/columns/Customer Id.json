@@ -1,0 +1,7 @@
+{
+  "name": "Customer Id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "CustomerKey",
+  "sourceProviderType": "Integer"
+}

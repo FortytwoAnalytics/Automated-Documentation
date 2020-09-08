@@ -1,0 +1,6 @@
+{
+  "name": "Sales Territory Id",
+  "dataType": "int64",
+  "sourceColumn": "SalesTerritoryKey",
+  "sourceProviderType": "Integer"
+}

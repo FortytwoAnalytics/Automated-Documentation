@@ -1,0 +1,4 @@
+{
+  "name": "Internet Previous Quarter Margin",
+  "expression": "CALCULATE ( [Internet Total Margin], PREVIOUSQUARTER ( 'Date'[Date] ) )"
+}

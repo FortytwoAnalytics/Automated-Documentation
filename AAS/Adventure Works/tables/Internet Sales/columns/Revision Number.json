@@ -1,0 +1,6 @@
+{
+  "name": "Revision Number",
+  "dataType": "int64",
+  "sourceColumn": "RevisionNumber",
+  "sourceProviderType": "UnsignedTinyInt"
+}

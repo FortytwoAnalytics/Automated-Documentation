@@ -1,0 +1,6 @@
+{
+  "name": "Marital Status",
+  "dataType": "string",
+  "sourceColumn": "MaritalStatus",
+  "sourceProviderType": "WChar"
+}

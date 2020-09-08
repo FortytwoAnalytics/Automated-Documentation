@@ -1,0 +1,6 @@
+{
+  "name": "Postal Code",
+  "dataType": "string",
+  "sourceColumn": "PostalCode",
+  "sourceProviderType": "WChar"
+}

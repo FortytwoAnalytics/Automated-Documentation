@@ -1,0 +1,7 @@
+{
+  "name": "eb741760-55e7-4bae-98d2-7b103068b1ab",
+  "fromTable": "Product",
+  "fromColumn": "Product Subcategory Id",
+  "toTable": "Product Subcategory",
+  "toColumn": "Product Subcategory Id"
+}

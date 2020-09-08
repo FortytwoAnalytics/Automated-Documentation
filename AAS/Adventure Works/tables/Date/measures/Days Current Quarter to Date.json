@@ -1,0 +1,4 @@
+{
+  "name": "Days Current Quarter to Date",
+  "expression": "COUNTROWS( DATESQTD( 'Date'[Date]))"
+}

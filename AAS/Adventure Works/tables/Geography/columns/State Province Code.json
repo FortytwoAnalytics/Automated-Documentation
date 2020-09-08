@@ -1,0 +1,6 @@
+{
+  "name": "State Province Code",
+  "dataType": "string",
+  "sourceColumn": "StateProvinceCode",
+  "sourceProviderType": "WChar"
+}

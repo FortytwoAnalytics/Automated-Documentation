@@ -1,0 +1,6 @@
+{
+  "name": "Address Line 2",
+  "dataType": "string",
+  "sourceColumn": "AddressLine2",
+  "sourceProviderType": "WChar"
+}

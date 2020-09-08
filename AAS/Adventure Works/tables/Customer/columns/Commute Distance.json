@@ -1,0 +1,6 @@
+{
+  "name": "Commute Distance",
+  "dataType": "string",
+  "sourceColumn": "CommuteDistance",
+  "sourceProviderType": "WChar"
+}

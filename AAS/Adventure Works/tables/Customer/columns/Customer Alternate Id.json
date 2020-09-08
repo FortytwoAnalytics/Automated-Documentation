@@ -1,0 +1,7 @@
+{
+  "name": "Customer Alternate Id",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "CustomerAlternateKey",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Week Number of Year",
+  "dataType": "int64",
+  "sourceColumn": "WeekNumberOfYear",
+  "sourceProviderType": "UnsignedTinyInt"
+}

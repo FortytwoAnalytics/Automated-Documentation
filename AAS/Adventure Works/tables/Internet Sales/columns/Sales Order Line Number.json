@@ -1,0 +1,6 @@
+{
+  "name": "Sales Order Line Number",
+  "dataType": "int64",
+  "sourceColumn": "SalesOrderLineNumber",
+  "sourceProviderType": "UnsignedTinyInt"
+}

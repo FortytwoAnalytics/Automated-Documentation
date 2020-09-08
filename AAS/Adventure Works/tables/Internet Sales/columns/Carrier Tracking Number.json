@@ -1,0 +1,6 @@
+{
+  "name": "Carrier Tracking Number",
+  "dataType": "string",
+  "sourceColumn": "CarrierTrackingNumber",
+  "sourceProviderType": "WChar"
+}

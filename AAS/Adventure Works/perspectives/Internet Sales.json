@@ -1,0 +1,342 @@
+{
+  "name": "Internet Sales",
+  "tables": [
+    {
+      "name": "Date",
+      "columns": [
+        {
+          "name": "Calendar Quarter"
+        },
+        {
+          "name": "Calendar Semester"
+        },
+        {
+          "name": "Calendar Year"
+        },
+        {
+          "name": "Date"
+        },
+        {
+          "name": "Day Name"
+        },
+        {
+          "name": "Day Number of Week"
+        },
+        {
+          "name": "Day of Month"
+        },
+        {
+          "name": "Day of Week"
+        },
+        {
+          "name": "Day of Year"
+        },
+        {
+          "name": "Fiscal Quarter"
+        },
+        {
+          "name": "Fiscal Semester"
+        },
+        {
+          "name": "Fiscal Year"
+        },
+        {
+          "name": "Month"
+        },
+        {
+          "name": "Month Calendar"
+        },
+        {
+          "name": "Month Name"
+        },
+        {
+          "name": "Week Number of Year"
+        }
+      ],
+      "measures": [
+        {
+          "name": "Days Current Quarter to Date"
+        },
+        {
+          "name": "Days in Current Quarter"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "columns": [
+        {
+          "name": "City"
+        },
+        {
+          "name": "Country Region Code"
+        },
+        {
+          "name": "Country Region Name"
+        },
+        {
+          "name": "Geography Id"
+        },
+        {
+          "name": "Postal Code"
+        },
+        {
+          "name": "Sales Territory Id"
+        },
+        {
+          "name": "State Province Code"
+        },
+        {
+          "name": "State Province Name"
+        }
+      ]
+    },
+    {
+      "name": "Internet Sales",
+      "columns": [
+        {
+          "name": "Carrier Tracking Number"
+        },
+        {
+          "name": "Currency Id"
+        },
+        {
+          "name": "Customer Id"
+        },
+        {
+          "name": "Customer PO Number"
+        },
+        {
+          "name": "Discount Amount"
+        },
+        {
+          "name": "Due Date"
+        },
+        {
+          "name": "Extended Amount"
+        },
+        {
+          "name": "Freight"
+        },
+        {
+          "name": "Margin"
+        },
+        {
+          "name": "Order Date"
+        },
+        {
+          "name": "Order Quantity"
+        },
+        {
+          "name": "Product Id"
+        },
+        {
+          "name": "Product Standard Cost"
+        },
+        {
+          "name": "Promotion Id"
+        },
+        {
+          "name": "Revision Number"
+        },
+        {
+          "name": "Sales Amount"
+        },
+        {
+          "name": "Sales Order Line Number"
+        },
+        {
+          "name": "Sales Order Number"
+        },
+        {
+          "name": "Sales Territory Id"
+        },
+        {
+          "name": "Ship Date"
+        },
+        {
+          "name": "Tax Amt"
+        },
+        {
+          "name": "Total Product Cost"
+        },
+        {
+          "name": "Unit Price"
+        },
+        {
+          "name": "Unit Price Discount Pct"
+        }
+      ],
+      "measures": [
+        {
+          "name": "Internet Current Quarter Margin"
+        },
+        {
+          "name": "Internet Current Quarter Sales"
+        },
+        {
+          "name": "Internet Distinct Count Sales Order"
+        },
+        {
+          "name": "Internet Order Lines Count"
+        },
+        {
+          "name": "Internet Previous Quarter Margin"
+        },
+        {
+          "name": "Internet Previous Quarter Margin Proportion to QTD"
+        },
+        {
+          "name": "Internet Previous Quarter Sales"
+        },
+        {
+          "name": "Internet Previous Quarter Sales Proportion to QTD"
+        },
+        {
+          "name": "Internet Total Discount Amount"
+        },
+        {
+          "name": "Internet Total Freight"
+        },
+        {
+          "name": "Internet Total Margin"
+        },
+        {
+          "name": "Internet Total Product Cost"
+        },
+        {
+          "name": "Internet Total Sales"
+        },
+        {
+          "name": "Internet Total Tax Amt"
+        },
+        {
+          "name": "Internet Total Units"
+        },
+        {
+          "name": "Internet Current Quarter Margin Performance"
+        },
+        {
+          "name": "Internet Current Quarter Sales Performance"
+        }
+      ]
+    },
+    {
+      "name": "Product",
+      "columns": [
+        {
+          "name": "Class"
+        },
+        {
+          "name": "Color"
+        },
+        {
+          "name": "Days To Manufacture"
+        },
+        {
+          "name": "Dealer Price"
+        },
+        {
+          "name": "Description"
+        },
+        {
+          "name": "Is Finished Product"
+        },
+        {
+          "name": "List Price"
+        },
+        {
+          "name": "Model Name"
+        },
+        {
+          "name": "Product Alternate Id"
+        },
+        {
+          "name": "Product Category Name"
+        },
+        {
+          "name": "Product End Date"
+        },
+        {
+          "name": "Product Id"
+        },
+        {
+          "name": "Product Line"
+        },
+        {
+          "name": "Product Name"
+        },
+        {
+          "name": "Product Start Date"
+        },
+        {
+          "name": "Product Status"
+        },
+        {
+          "name": "Product Subcategory Id"
+        },
+        {
+          "name": "Product Subcategory Name"
+        },
+        {
+          "name": "Reorder Point"
+        },
+        {
+          "name": "Safety Stock Level"
+        },
+        {
+          "name": "Size"
+        },
+        {
+          "name": "Size Range"
+        },
+        {
+          "name": "Size Unit Code"
+        },
+        {
+          "name": "Standard Cost"
+        },
+        {
+          "name": "Style"
+        },
+        {
+          "name": "Weight"
+        },
+        {
+          "name": "Weight Unit Code"
+        }
+      ]
+    },
+    {
+      "name": "Product Category",
+      "columns": [
+        {
+          "name": "Product Category Alternate Id"
+        },
+        {
+          "name": "Product Category Id"
+        },
+        {
+          "name": "Product Category Name"
+        }
+      ]
+    },
+    {
+      "name": "Product Subcategory",
+      "columns": [
+        {
+          "name": "Product Category Id"
+        },
+        {
+          "name": "Product Subcategory Alternate Id"
+        },
+        {
+          "name": "Product Subcategory Id"
+        },
+        {
+          "name": "Product Subcategory Name"
+        }
+      ]
+    }
+  ]
+}

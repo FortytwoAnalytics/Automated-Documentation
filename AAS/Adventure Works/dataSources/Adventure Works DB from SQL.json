@@ -1,0 +1,11 @@
+{
+  "name": "Adventure Works DB from SQL",
+  "connectionString": "Provider=SQLNCLI11;Data Source=localhost;Initial Catalog=AdventureWorksDW2014;Integrated Security=SSPI;Persist Security Info=false",
+  "impersonationMode": "impersonateCurrentUser",
+  "annotations": [
+    {
+      "name": "ConnectionEditUISource",
+      "value": "SqlServer"
+    }
+  ]
+}

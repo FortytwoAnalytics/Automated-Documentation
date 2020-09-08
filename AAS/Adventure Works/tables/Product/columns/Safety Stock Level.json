@@ -1,0 +1,6 @@
+{
+  "name": "Safety Stock Level",
+  "dataType": "int64",
+  "sourceColumn": "SafetyStockLevel",
+  "sourceProviderType": "SmallInt"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Date of First Purchase",
+  "dataType": "dateTime",
+  "sourceColumn": "DateFirstPurchase",
+  "formatString": "General Date",
+  "sourceProviderType": "DBDate"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Geography Id",
+  "dataType": "int64",
+  "sourceColumn": "GeographyKey",
+  "sourceProviderType": "Integer"
+}

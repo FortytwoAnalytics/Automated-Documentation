@@ -1,0 +1,6 @@
+{
+  "name": "Month",
+  "dataType": "int64",
+  "sourceColumn": "MonthNumberOfYear",
+  "sourceProviderType": "UnsignedTinyInt"
+}

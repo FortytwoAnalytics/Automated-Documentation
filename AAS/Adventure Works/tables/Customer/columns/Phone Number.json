@@ -1,0 +1,6 @@
+{
+  "name": "Phone Number",
+  "dataType": "string",
+  "sourceColumn": "Phone",
+  "sourceProviderType": "WChar"
+}

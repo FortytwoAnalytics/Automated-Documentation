@@ -1,0 +1,7 @@
+{
+  "name": "Promotion Id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "PromotionKey",
+  "sourceProviderType": "Integer"
+}

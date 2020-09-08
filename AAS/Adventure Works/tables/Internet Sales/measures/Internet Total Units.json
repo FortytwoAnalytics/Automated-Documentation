@@ -1,0 +1,4 @@
+{
+  "name": "Internet Total Units",
+  "expression": "SUM ( 'Internet Sales'[Order Quantity] )"
+}

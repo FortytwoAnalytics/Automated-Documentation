@@ -1,0 +1,7 @@
+{
+  "name": "Order Date",
+  "dataType": "dateTime",
+  "sourceColumn": "OrderDate",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

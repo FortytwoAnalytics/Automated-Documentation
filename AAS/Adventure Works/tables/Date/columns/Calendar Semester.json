@@ -1,0 +1,6 @@
+{
+  "name": "Calendar Semester",
+  "dataType": "int64",
+  "sourceColumn": "CalendarSemester",
+  "sourceProviderType": "UnsignedTinyInt"
+}

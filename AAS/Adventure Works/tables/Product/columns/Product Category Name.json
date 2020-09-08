@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "Product Category Name",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "RELATED('Product Category'[Product Category Name])"
+}

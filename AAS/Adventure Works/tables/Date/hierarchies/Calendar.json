@@ -1,0 +1,30 @@
+{
+  "name": "Calendar",
+  "levels": [
+    {
+      "name": "Semester",
+      "ordinal": 1,
+      "column": "Calendar Semester"
+    },
+    {
+      "name": "Quarter",
+      "ordinal": 2,
+      "column": "Calendar Quarter"
+    },
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Calendar Year"
+    },
+    {
+      "name": "Month",
+      "ordinal": 3,
+      "column": "Month Calendar"
+    },
+    {
+      "name": "Day",
+      "ordinal": 4,
+      "column": "Day of Month"
+    }
+  ]
+}

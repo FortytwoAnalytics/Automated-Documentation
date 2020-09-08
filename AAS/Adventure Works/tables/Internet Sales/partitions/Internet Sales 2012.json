@@ -1,0 +1,67 @@
+{
+  "name": "Internet Sales 2012",
+  "mode": "import",
+  "source": {
+    "type": "query",
+    "query": [
+      "SELECT   ",
+      "[dbo].[FactInternetSales].[ProductKey],  ",
+      "[dbo].[FactInternetSales].[CustomerKey],  ",
+      "[dbo].[FactInternetSales].[PromotionKey],  ",
+      "[dbo].[FactInternetSales].[CurrencyKey],  ",
+      "[dbo].[FactInternetSales].[SalesTerritoryKey],  ",
+      "[dbo].[FactInternetSales].[SalesOrderNumber],  ",
+      "[dbo].[FactInternetSales].[SalesOrderLineNumber],  ",
+      "[dbo].[FactInternetSales].[RevisionNumber],  ",
+      "[dbo].[FactInternetSales].[OrderQuantity],  ",
+      "[dbo].[FactInternetSales].[UnitPrice],  ",
+      "[dbo].[FactInternetSales].[ExtendedAmount],  ",
+      "[dbo].[FactInternetSales].[UnitPriceDiscountPct],  ",
+      "[dbo].[FactInternetSales].[DiscountAmount],  ",
+      "[dbo].[FactInternetSales].[ProductStandardCost],  ",
+      "[dbo].[FactInternetSales].[TotalProductCost],  ",
+      "[dbo].[FactInternetSales].[SalesAmount],  ",
+      "[dbo].[FactInternetSales].[TaxAmt],  ",
+      "[dbo].[FactInternetSales].[Freight],  ",
+      "[dbo].[FactInternetSales].[CarrierTrackingNumber],  ",
+      "[dbo].[FactInternetSales].[CustomerPONumber],  ",
+      "[dbo].[FactInternetSales].[OrderDate],  ",
+      "[dbo].[FactInternetSales].[DueDate],  ",
+      "[dbo].[FactInternetSales].[ShipDate]   ",
+      "FROM [dbo].[FactInternetSales] WHERE (([OrderDate] >= N'2012-01-01 00:00:00') AND ([OrderDate] < N'2013-01-01 00:00:00'))"
+    ],
+    "dataSource": "Adventure Works DB from SQL"
+  },
+  "annotations": [
+    {
+      "name": "QueryEditorSerialization",
+      "value": [
+        "<?xml version=\"1.0\" encoding=\"UTF-16\"?><Gemini xmlns=\"QueryEditorSerialization\"><AnnotationContent><![CDATA[<RSQueryCommandText>SELECT   ",
+        "[dbo].[FactInternetSales].[ProductKey],  ",
+        "[dbo].[FactInternetSales].[CustomerKey],  ",
+        "[dbo].[FactInternetSales].[PromotionKey],  ",
+        "[dbo].[FactInternetSales].[CurrencyKey],  ",
+        "[dbo].[FactInternetSales].[SalesTerritoryKey],  ",
+        "[dbo].[FactInternetSales].[SalesOrderNumber],  ",
+        "[dbo].[FactInternetSales].[SalesOrderLineNumber],  ",
+        "[dbo].[FactInternetSales].[RevisionNumber],  ",
+        "[dbo].[FactInternetSales].[OrderQuantity],  ",
+        "[dbo].[FactInternetSales].[UnitPrice],  ",
+        "[dbo].[FactInternetSales].[ExtendedAmount],  ",
+        "[dbo].[FactInternetSales].[UnitPriceDiscountPct],  ",
+        "[dbo].[FactInternetSales].[DiscountAmount],  ",
+        "[dbo].[FactInternetSales].[ProductStandardCost],  ",
+        "[dbo].[FactInternetSales].[TotalProductCost],  ",
+        "[dbo].[FactInternetSales].[SalesAmount],  ",
+        "[dbo].[FactInternetSales].[TaxAmt],  ",
+        "[dbo].[FactInternetSales].[Freight],  ",
+        "[dbo].[FactInternetSales].[CarrierTrackingNumber],  ",
+        "[dbo].[FactInternetSales].[CustomerPONumber],  ",
+        "[dbo].[FactInternetSales].[OrderDate],  ",
+        "[dbo].[FactInternetSales].[DueDate],  ",
+        "[dbo].[FactInternetSales].[ShipDate]   ",
+        "FROM [dbo].[FactInternetSales] WHERE (([OrderDate] >= N'2012-01-01 00:00:00') AND ([OrderDate] < N'2013-01-01 00:00:00'))</RSQueryCommandText><RSQueryCommandType>Text</RSQueryCommandType><RSQueryDesignState></RSQueryDesignState>]]></AnnotationContent></Gemini>"
+      ]
+    }
+  ]
+}

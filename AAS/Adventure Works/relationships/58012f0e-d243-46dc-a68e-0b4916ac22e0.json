@@ -1,0 +1,8 @@
+{
+  "name": "58012f0e-d243-46dc-a68e-0b4916ac22e0",
+  "fromTable": "Internet Sales",
+  "fromColumn": "Due Date",
+  "toTable": "Date",
+  "toColumn": "Date",
+  "isActive": false
+}

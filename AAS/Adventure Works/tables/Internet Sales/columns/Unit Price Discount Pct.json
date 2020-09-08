@@ -1,0 +1,6 @@
+{
+  "name": "Unit Price Discount Pct",
+  "dataType": "double",
+  "sourceColumn": "UnitPriceDiscountPct",
+  "sourceProviderType": "Double"
+}

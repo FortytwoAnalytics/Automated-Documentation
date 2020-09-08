@@ -1,0 +1,7 @@
+{
+  "name": "Name Style",
+  "dataType": "boolean",
+  "sourceColumn": "NameStyle",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Internet Order Lines Count",
+  "expression": "COUNTA ( [Sales Order Line Number] )"
+}

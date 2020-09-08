@@ -1,0 +1,4 @@
+{
+  "name": "Days in Current Quarter",
+  "expression": "COUNTROWS( DATESBETWEEN( 'Date'[Date], STARTOFQUARTER( LASTDATE('Date'[Date])), ENDOFQUARTER('Date'[Date])))"
+}

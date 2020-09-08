@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "Day of Week",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "RIGHT(\" \" & FORMAT([Day Number Of Week],\"#0\"), 2) & \" - \" & [Day Name]"
+}

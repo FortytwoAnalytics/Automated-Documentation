@@ -1,0 +1,7 @@
+{
+  "name": "dc36f92e-cfb0-4119-888f-4e92e3d0d3f6",
+  "fromTable": "Product Subcategory",
+  "fromColumn": "Product Category Id",
+  "toTable": "Product Category",
+  "toColumn": "Product Category Id"
+}

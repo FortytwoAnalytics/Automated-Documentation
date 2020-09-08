@@ -1,0 +1,6 @@
+{
+  "name": "Fiscal Quarter",
+  "dataType": "int64",
+  "sourceColumn": "FiscalQuarter",
+  "sourceProviderType": "UnsignedTinyInt"
+}

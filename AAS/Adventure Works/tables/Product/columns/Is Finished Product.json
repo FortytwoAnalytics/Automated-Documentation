@@ -1,0 +1,7 @@
+{
+  "name": "Is Finished Product",
+  "dataType": "boolean",
+  "sourceColumn": "FinishedGoodsFlag",
+  "formatString": "\"TRUE\";\"TRUE\";\"FALSE\"",
+  "sourceProviderType": "Boolean"
+}

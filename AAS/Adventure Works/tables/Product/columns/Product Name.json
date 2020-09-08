@@ -1,0 +1,6 @@
+{
+  "name": "Product Name",
+  "dataType": "string",
+  "sourceColumn": "EnglishProductName",
+  "sourceProviderType": "WChar"
+}

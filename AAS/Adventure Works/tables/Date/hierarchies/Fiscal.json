@@ -1,0 +1,30 @@
+{
+  "name": "Fiscal",
+  "levels": [
+    {
+      "name": "Semester",
+      "ordinal": 1,
+      "column": "Fiscal Semester"
+    },
+    {
+      "name": "Quarter",
+      "ordinal": 2,
+      "column": "Fiscal Quarter"
+    },
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Fiscal Year"
+    },
+    {
+      "name": "Month",
+      "ordinal": 3,
+      "column": "Month Calendar"
+    },
+    {
+      "name": "Day",
+      "ordinal": 4,
+      "column": "Day of Month"
+    }
+  ]
+}

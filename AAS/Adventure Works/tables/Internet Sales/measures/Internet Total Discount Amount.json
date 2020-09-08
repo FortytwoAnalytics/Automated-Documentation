@@ -1,0 +1,4 @@
+{
+  "name": "Internet Total Discount Amount",
+  "expression": "SUM('Internet Sales'[Discount Amount])"
+}

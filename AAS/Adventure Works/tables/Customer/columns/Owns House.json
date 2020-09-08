@@ -1,0 +1,6 @@
+{
+  "name": "Owns House",
+  "dataType": "string",
+  "sourceColumn": "HouseOwnerFlag",
+  "sourceProviderType": "WChar"
+}

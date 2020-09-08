@@ -1,0 +1,6 @@
+{
+  "name": "Weight Unit Code",
+  "dataType": "string",
+  "sourceColumn": "WeightUnitMeasureCode",
+  "sourceProviderType": "WChar"
+}

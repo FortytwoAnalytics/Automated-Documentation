@@ -1,0 +1,10 @@
+{
+  "name": "Internet Sales US",
+  "modelPermission": "read",
+  "tablePermissions": [
+    {
+      "name": "Geography",
+      "filterExpression": "Geography[Country Region Code] = \"US\""
+    }
+  ]
+}

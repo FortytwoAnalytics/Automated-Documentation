@@ -1,0 +1,52 @@
+trigger:
+  branches:
+    include:
+      - master
+  paths:
+    exclude:
+      - website/_drafts
+      - README.md
+
+jobs:
+  - job: build
+    pool:
+      vmImage: 'vs2017-win2016'
+    steps:
+      - task: PowerShell@2
+        displayName: 'PowerShell Script'
+        inputs:
+          targetType: filePath
+          filePath: ./tools/documentor/build.ps1
+          arguments: '-solution "Adventure Works"'
+
+      - task: UseRubyVersion@0
+        inputs:
+          versionSpec: '>= 2.5'
+      
+      - script: |
+          gem install jekyll bundler
+        displayName: 'install jekyll'
+          
+      - script: |
+          dir
+          cd website
+          bundle install
+          jekyll build
+        displayName: 'jekyll Prepare'
+
+      - script: |
+          cd website
+          bundle exec jekyll build
+        displayName: 'jekyll build'
+
+      - task: CopyFiles@2
+        displayName: 'Copy files to staging'
+        inputs:
+          SourceFolder: 'website/_site'
+          TargetFolder: '$(Build.ArtifactStagingDirectory)'
+      
+      - task: PublishBuildArtifacts@1
+        displayName: 'Publish build artifact'
+        inputs:
+          pathtoPublish: '$(Build.ArtifactStagingDirectory)'
+          artifactName: site

@@ -1,0 +1,6 @@
+{
+  "name": "Weight",
+  "dataType": "double",
+  "sourceColumn": "Weight",
+  "sourceProviderType": "Double"
+}

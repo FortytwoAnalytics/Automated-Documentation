@@ -1,0 +1,6 @@
+{
+  "name": "Fiscal Year",
+  "dataType": "int64",
+  "sourceColumn": "FiscalYear",
+  "sourceProviderType": "SmallInt"
+}

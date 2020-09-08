@@ -1,0 +1,4 @@
+{
+  "name": "Internet Current Quarter Sales",
+  "expression": "TOTALQTD([Internet Total Sales],'Date'[Date])"
+}

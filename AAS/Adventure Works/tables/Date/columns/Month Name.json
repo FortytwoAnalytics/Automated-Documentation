@@ -1,0 +1,6 @@
+{
+  "name": "Month Name",
+  "dataType": "string",
+  "sourceColumn": "EnglishMonthName",
+  "sourceProviderType": "WChar"
+}

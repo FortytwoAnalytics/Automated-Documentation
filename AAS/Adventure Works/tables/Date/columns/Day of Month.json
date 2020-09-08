@@ -1,0 +1,6 @@
+{
+  "name": "Day of Month",
+  "dataType": "int64",
+  "sourceColumn": "DayNumberOfMonth",
+  "sourceProviderType": "UnsignedTinyInt"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Fiscal Semester",
+  "dataType": "int64",
+  "sourceColumn": "FiscalSemester",
+  "sourceProviderType": "UnsignedTinyInt"
+}

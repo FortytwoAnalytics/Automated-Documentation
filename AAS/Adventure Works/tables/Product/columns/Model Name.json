@@ -1,0 +1,6 @@
+{
+  "name": "Model Name",
+  "dataType": "string",
+  "sourceColumn": "ModelName",
+  "sourceProviderType": "WChar"
+}

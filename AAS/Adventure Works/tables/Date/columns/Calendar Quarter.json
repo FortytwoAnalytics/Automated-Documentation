@@ -1,0 +1,6 @@
+{
+  "name": "Calendar Quarter",
+  "dataType": "int64",
+  "sourceColumn": "CalendarQuarter",
+  "sourceProviderType": "UnsignedTinyInt"
+}

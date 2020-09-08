@@ -1,0 +1,6 @@
+{
+  "name": "Total Children",
+  "dataType": "int64",
+  "sourceColumn": "TotalChildren",
+  "sourceProviderType": "UnsignedTinyInt"
+}

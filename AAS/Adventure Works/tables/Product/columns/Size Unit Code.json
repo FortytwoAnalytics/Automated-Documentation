@@ -1,0 +1,6 @@
+{
+  "name": "Size Unit Code",
+  "dataType": "string",
+  "sourceColumn": "SizeUnitMeasureCode",
+  "sourceProviderType": "WChar"
+}

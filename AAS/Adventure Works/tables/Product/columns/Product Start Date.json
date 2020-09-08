@@ -1,0 +1,7 @@
+{
+  "name": "Product Start Date",
+  "dataType": "dateTime",
+  "sourceColumn": "StartDate",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

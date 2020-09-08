@@ -1,0 +1,20 @@
+{
+  "name": "Production Calendar",
+  "levels": [
+    {
+      "name": "Day",
+      "ordinal": 2,
+      "column": "Day of Week"
+    },
+    {
+      "name": "Year",
+      "ordinal": 0,
+      "column": "Calendar Year"
+    },
+    {
+      "name": "Week",
+      "ordinal": 1,
+      "column": "Week Number of Year"
+    }
+  ]
+}

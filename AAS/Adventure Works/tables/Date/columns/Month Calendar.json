@@ -1,0 +1,7 @@
+{
+  "type": "calculated",
+  "name": "Month Calendar",
+  "dataType": "string",
+  "isDataTypeInferred": true,
+  "expression": "RIGHT(\" \" & FORMAT([Month],\"#0\"), 2) & \" - \" & [Month Name]"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Country Region Code",
+  "dataType": "string",
+  "sourceColumn": "CountryRegionCode",
+  "sourceProviderType": "WChar"
+}

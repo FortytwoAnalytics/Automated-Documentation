@@ -1,0 +1,6 @@
+{
+  "name": "Day Name",
+  "dataType": "string",
+  "sourceColumn": "EnglishDayNameOfWeek",
+  "sourceProviderType": "WChar"
+}

@@ -1,0 +1,4 @@
+{
+  "name": "Internet Distinct Count Sales Order",
+  "expression": "DISTINCTCOUNT([Sales Order Number])"
+}

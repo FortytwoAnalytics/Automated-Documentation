@@ -1,0 +1,6 @@
+{
+  "name": "Calendar Year",
+  "dataType": "int64",
+  "sourceColumn": "CalendarYear",
+  "sourceProviderType": "SmallInt"
+}

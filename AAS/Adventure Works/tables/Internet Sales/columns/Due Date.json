@@ -1,0 +1,7 @@
+{
+  "name": "Due Date",
+  "dataType": "dateTime",
+  "sourceColumn": "DueDate",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

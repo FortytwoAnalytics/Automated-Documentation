@@ -1,0 +1,7 @@
+{
+  "name": "Product Alternate Id",
+  "dataType": "string",
+  "isHidden": true,
+  "sourceColumn": "ProductAlternateKey",
+  "sourceProviderType": "WChar"
+}

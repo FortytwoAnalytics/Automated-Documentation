@@ -1,0 +1,7 @@
+{
+  "name": "Product Id",
+  "dataType": "int64",
+  "isHidden": true,
+  "sourceColumn": "ProductKey",
+  "sourceProviderType": "Integer"
+}

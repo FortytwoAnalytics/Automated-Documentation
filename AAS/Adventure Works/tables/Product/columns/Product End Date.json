@@ -1,0 +1,7 @@
+{
+  "name": "Product End Date",
+  "dataType": "dateTime",
+  "sourceColumn": "EndDate",
+  "formatString": "General Date",
+  "sourceProviderType": "DBTimeStamp"
+}

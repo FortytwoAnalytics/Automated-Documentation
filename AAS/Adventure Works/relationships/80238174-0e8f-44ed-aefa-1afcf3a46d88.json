@@ -1,0 +1,8 @@
+{
+  "name": "80238174-0e8f-44ed-aefa-1afcf3a46d88",
+  "fromTable": "Internet Sales",
+  "fromColumn": "Ship Date",
+  "toTable": "Date",
+  "toColumn": "Date",
+  "isActive": false
+}

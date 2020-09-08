@@ -1,0 +1,6 @@
+{
+  "name": "Suffix",
+  "dataType": "string",
+  "sourceColumn": "Suffix",
+  "sourceProviderType": "WChar"
+}

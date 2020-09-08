@@ -1,0 +1,7 @@
+{
+  "name": "c28185c2-1217-4851-877a-2a05701ea1e0",
+  "fromTable": "Internet Sales",
+  "fromColumn": "Product Id",
+  "toTable": "Product",
+  "toColumn": "Product Id"
+}

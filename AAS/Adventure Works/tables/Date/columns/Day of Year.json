@@ -1,0 +1,6 @@
+{
+  "name": "Day of Year",
+  "dataType": "int64",
+  "sourceColumn": "DayNumberOfYear",
+  "sourceProviderType": "SmallInt"
+}

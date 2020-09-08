@@ -1,0 +1,6 @@
+{
+  "name": "Occupation",
+  "dataType": "string",
+  "sourceColumn": "EnglishOccupation",
+  "sourceProviderType": "WChar"
+}

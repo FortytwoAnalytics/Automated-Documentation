@@ -1,0 +1,7 @@
+{
+  "name": "956a0d3a-59f7-4bbc-8308-92271874b196",
+  "fromTable": "Internet Sales",
+  "fromColumn": "Order Date",
+  "toTable": "Date",
+  "toColumn": "Date"
+}

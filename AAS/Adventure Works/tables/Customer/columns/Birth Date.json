@@ -1,0 +1,7 @@
+{
+  "name": "Birth Date",
+  "dataType": "dateTime",
+  "sourceColumn": "BirthDate",
+  "formatString": "General Date",
+  "sourceProviderType": "DBDate"
+}

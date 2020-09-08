@@ -1,0 +1,4 @@
+{
+  "name": "Internet Current Quarter Margin",
+  "expression": "TOTALQTD ( [Internet Total Margin], 'Date'[Date] )"
+}

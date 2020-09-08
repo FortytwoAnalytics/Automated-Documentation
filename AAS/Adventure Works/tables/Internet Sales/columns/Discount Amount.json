@@ -1,0 +1,6 @@
+{
+  "name": "Discount Amount",
+  "dataType": "double",
+  "sourceColumn": "DiscountAmount",
+  "sourceProviderType": "Double"
+}

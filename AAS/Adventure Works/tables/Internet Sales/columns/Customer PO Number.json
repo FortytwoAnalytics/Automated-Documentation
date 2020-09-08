@@ -1,0 +1,6 @@
+{
+  "name": "Customer PO Number",
+  "dataType": "string",
+  "sourceColumn": "CustomerPONumber",
+  "sourceProviderType": "WChar"
+}

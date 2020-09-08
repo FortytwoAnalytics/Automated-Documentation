@@ -1,0 +1,7 @@
+{
+  "name": "3e042404-db4f-4eca-a37f-528fb4697d38",
+  "fromTable": "Internet Sales",
+  "fromColumn": "Customer Id",
+  "toTable": "Customer",
+  "toColumn": "Customer Id"
+}

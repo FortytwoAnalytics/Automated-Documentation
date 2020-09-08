@@ -1,0 +1,6 @@
+{
+  "name": "Day Number of Week",
+  "dataType": "int64",
+  "sourceColumn": "DayNumberOfWeek",
+  "sourceProviderType": "UnsignedTinyInt"
+}

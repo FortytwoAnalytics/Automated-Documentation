@@ -1,0 +1,4 @@
+{
+  "name": "Internet Previous Quarter Sales",
+  "expression": "CALCULATE([Internet Total Sales],PREVIOUSQUARTER('Date'[Date]))"
+}

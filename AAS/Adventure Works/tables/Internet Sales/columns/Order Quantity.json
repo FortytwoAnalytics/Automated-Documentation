@@ -1,0 +1,6 @@
+{
+  "name": "Order Quantity",
+  "dataType": "int64",
+  "sourceColumn": "OrderQuantity",
+  "sourceProviderType": "SmallInt"
+}

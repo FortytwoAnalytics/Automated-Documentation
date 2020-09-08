@@ -1,0 +1,6 @@
+{
+  "name": "Description",
+  "dataType": "string",
+  "sourceColumn": "EnglishDescription",
+  "sourceProviderType": "WChar"
+}

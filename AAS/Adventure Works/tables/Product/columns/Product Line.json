@@ -1,0 +1,6 @@
+{
+  "name": "Product Line",
+  "dataType": "string",
+  "sourceColumn": "ProductLine",
+  "sourceProviderType": "WChar"
+}

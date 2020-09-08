@@ -1,0 +1,6 @@
+{
+  "name": "Product Status",
+  "dataType": "string",
+  "sourceColumn": "Status",
+  "sourceProviderType": "WChar"
+}

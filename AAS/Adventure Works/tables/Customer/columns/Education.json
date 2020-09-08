@@ -1,0 +1,6 @@
+{
+  "name": "Education",
+  "dataType": "string",
+  "sourceColumn": "EnglishEducation",
+  "sourceProviderType": "WChar"
+}
